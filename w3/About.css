@@ -1,0 +1,169 @@
+body{
+    background-color: black;
+}
+.image1{
+    margin-top: 70px;
+    margin-left: 30px;
+    border-radius: 12px;
+}
+.para-text{
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+/* FOOTER */
+body{
+    background-color: black;
+}
+.para-3{
+    color: #fff4a3;
+    font-size: 14px;
+    margin-left: 150px;
+}
+.para-4{
+    color: #fff4a3;
+    font-size: 14px;
+    margin-left: 80px;
+}
+
+.main-title{
+    display: flex;
+}
+.main-sub-title{
+    display: flex;
+}
+.para-5{
+    color: #dddddd;
+    margin-left: 150px;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.para-5-0{
+    color: #dddddd;
+    margin-bottom: 15px;
+    font-size: 19px;
+    margin-left: 150px;
+}
+.para-5:hover{
+    color: yellow;
+    cursor: pointer;
+}
+.para-6{
+    color: #dddddd;
+    margin-left: 110px;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.para-6-0{
+    color: #dddddd;
+    margin-left: 110px;
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+.para-6:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+.para-7{
+    color: #dddddd;
+    margin-left: 110px;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.para-7-0{
+    color: #dddddd;
+    margin-left: 110px;
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+.para-7:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+.para-8{
+    color: #dddddd;
+    margin-left: 110px;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.para-8-0{
+    color: #dddddd;
+    margin-left: 110px;
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+.para-8:hover{
+    color: yellow;
+    cursor: pointer;
+}
+.main-title{
+    margin-top: 60px;
+}
+.main-sub-title{
+    margin-top:50px;
+}
+
+.icon-1{
+    color: #dddddd;
+    font-size: 20px;
+    margin-left: 150px;
+}
+.icon-1:hover{
+    color: yellow;
+    cursor: pointer;
+}
+.icon-2{
+    color: #dddddd;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.icon-2:hover{
+    color: yellow;
+    cursor: pointer;
+}
+.icons{
+    display: flex;
+    margin-top: 20px;
+}
+.forum{
+    color: #dddddd;
+    margin-left: 30px;
+    font-size: 16px;
+    
+}
+.forum:hover{
+    color: yellow;
+    cursor: pointer;
+}
+.para-9{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.para-9-0{
+    color:#dddddd;
+    font-size: 13px;
+}
+.linked{
+    color: #dddddd;
+}
+.linked:hover{
+    color: yellow;
+    cursor: pointer;
+}
+.para-10{
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.para-10-0{
+    color: #dddddd;
+    font-size: 13px;
+} 
+.pic1{
+    width: 50px;
+    margin-left: 150px;
+    margin-top: 50px;
+}

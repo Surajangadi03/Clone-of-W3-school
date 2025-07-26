@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+/*heading*/
+.heading{
+    font-size: 3.4rem;
+    color: white;
+    margin-top: 160px;
+}
+/*2nd-heading*/
+.sec-head{
+    font-size: 1.2rem;
+    color: rgb(138, 138, 22);
+}
+/*input-1*/
+input{
+    width:350px;
+    height: 39px;
+    border: 1px solid grey;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border: none;
+}
+.input-1{
+        display: flex;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+}
+/*bttns*/
+.bttns{
+    width: 100px;
+    height: 42px;
+    border: 1px solid green;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: green;
+}
+i{
+    color: white;
+}
+a{
+    color: white;
+    font-size: 16px;
+}
+a:hover{
+    color: rgb(138, 138, 22);
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.sec-heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}

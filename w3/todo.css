@@ -1,0 +1,36 @@
+input{
+    width: 500px;
+    padding: 20px;
+    background-color:white;
+    color: black;
+    border: none;
+    border-radius: 7px;
+    margin-left: 350px;
+    margin-top: 20px
+}
+button{
+    
+    width:100px ;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 350px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.completed{
+    text-decoration: line-through;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.todo{
+    margin-top:41px;
+    background-color:#d9eee1;
+    width: 100vw;
+    height: 100vh;
+}
+

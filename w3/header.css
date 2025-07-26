@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* HEADER----NAV-PANEL*/
+.nav-panel{
+    height: 40px;
+    width: 100%;
+    background-color: green;
+    position: fixed;
+    top:0;
+}
+.nav-panel ul,li .c{
+    display: flex;
+    margin-left: 30px;
+    padding: 5px;
+    color: white;
+}
+.nav-panel ul li .c{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+li a:hover{
+    color: black;
+}
